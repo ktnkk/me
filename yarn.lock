@@ -12001,15 +12001,15 @@ gatsby-link@^4.15.0:
     prop-types "^15.8.1"
 
 gatsby-page-utils@^2.15.0:
-  version "2.15.0"
-  resolved "https://registry.yarnpkg.com/gatsby-page-utils/-/gatsby-page-utils-2.15.0.tgz#f03b5f283cc70e66ecd48d04bbe6e75b5841bee9"
-  integrity sha512-icy/+uRQH94qLlqO2jlRkYFtttWHpQp+LYrtxuLGyLMOa6hPb6dEoVdKet3vGqq0ahmHPJmU7oQgSLs9w6Flog==
+  version "2.16.0"
+  resolved "https://registry.yarnpkg.com/gatsby-page-utils/-/gatsby-page-utils-2.16.0.tgz#4a88bf994d46b898b5fe05a29fae6684e831cd99"
+  integrity sha512-XMI3xEBVp0CuOHbTtDnpt6sAC7MaY30u+TVPTJZ/z7hhJtqvTuxo1UbUxfeziZ8Dg1O/Uc4PuawaVkSx15imCg==
   dependencies:
     "@babel/runtime" "^7.15.4"
     bluebird "^3.7.2"
     chokidar "^3.5.2"
     fs-exists-cached "^1.0.0"
-    gatsby-core-utils "^3.15.0"
+    gatsby-core-utils "^3.16.0"
     glob "^7.2.3"
     lodash "^4.17.21"
     micromatch "^4.0.5"
